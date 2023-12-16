@@ -1,0 +1,4 @@
+**/*.o
+*.pam
+pam-test
+pam-test_debug
